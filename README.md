@@ -1,3 +1,3 @@
-# empt
+# Flutter sample
 
-A new Flutter project.
+A flutter project to secure our grades.
